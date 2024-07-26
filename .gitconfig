@@ -1,0 +1,8 @@
+[merge]
+        ff = false
+[push]
+        autoSetupRemote = true
+[core]
+        autocrlf = input
+[pull]
+        rebase = true
