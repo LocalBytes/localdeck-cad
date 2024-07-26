@@ -1,0 +1,3 @@
+[submodule "kicad/Libs/ESP32_mini_KiCad_Library"]
+	path = kicad/Libs/ESP32_mini_KiCad_Library
+	url = git@github.com:r0oland/ESP32_mini_KiCad_Library.git
