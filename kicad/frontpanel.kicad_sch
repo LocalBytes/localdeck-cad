@@ -1108,7 +1108,7 @@
     )
     (pin "1" (uuid 7f12cbec-cfb3-4549-89a1-7e429e380440))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR07") (unit 1)
         )
@@ -1148,7 +1148,7 @@
     (pin "3" (uuid 5bba7b1c-9a82-48a0-9249-9c870a13c7d5))
     (pin "4" (uuid 24e36b41-e642-4192-88c6-7cd702c4fccb))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED10") (unit 1)
         )
@@ -1186,7 +1186,7 @@
     (pin "1" (uuid e37a7156-117f-4041-a063-1a4c13808a4e))
     (pin "2" (uuid 6df96e61-e97c-49e7-8ba1-db1e3eaadc54))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX3") (unit 1)
         )
@@ -1226,7 +1226,7 @@
     (pin "3" (uuid 099455a0-9a64-4dd5-9f90-960cea0912ba))
     (pin "4" (uuid 60f3e3e2-dd50-484f-b34e-97ee535d37de))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED21") (unit 1)
         )
@@ -1266,7 +1266,7 @@
     (pin "3" (uuid 658dadb6-06c6-4b7f-977a-7901ec49698d))
     (pin "4" (uuid 75167a2b-9dc0-4341-8740-6ab951ca3675))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED17") (unit 1)
         )
@@ -1304,7 +1304,7 @@
     (pin "1" (uuid d5beb41b-fead-4a07-a3fc-327e33a5dc56))
     (pin "2" (uuid a424adeb-af1f-415f-afc7-d24ba9683fd8))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX17") (unit 1)
         )
@@ -1342,7 +1342,7 @@
     (pin "1" (uuid 6351958d-fd00-4ae1-b66a-47ec469934a3))
     (pin "2" (uuid a8b81066-16d0-4e86-8e40-450f76dc1184))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX2") (unit 1)
         )
@@ -1380,7 +1380,7 @@
     (pin "1" (uuid 06a7ebde-342b-4b37-a76d-cab289f42672))
     (pin "2" (uuid a5e898e2-f7fd-4ac0-aaac-b3d72695c3c1))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX20") (unit 1)
         )
@@ -1408,7 +1408,7 @@
     )
     (pin "1" (uuid b556ff0f-b1f5-4a89-915e-171097996032))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR04") (unit 1)
         )
@@ -1448,7 +1448,7 @@
     (pin "3" (uuid 335f17c2-d2a0-4f86-a976-e20e534a862d))
     (pin "4" (uuid c21d9e42-8c0e-47ff-b312-976bddb31207))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED1") (unit 1)
         )
@@ -1486,7 +1486,7 @@
     (pin "1" (uuid 07778392-e25b-464f-8cb5-a90b62785a69))
     (pin "2" (uuid 32cd9e9d-4cb6-46a7-b52f-1ea5235a328b))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX19") (unit 1)
         )
@@ -1524,7 +1524,7 @@
     (pin "1" (uuid f4e75625-b42f-45e9-a9a1-6d0708466d00))
     (pin "2" (uuid eb06fe8c-637f-4a2e-bc2b-0710b21769d8))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX6") (unit 1)
         )
@@ -1562,7 +1562,7 @@
     (pin "1" (uuid a54976e7-9fd8-4d0d-a070-f4849df47ef1))
     (pin "2" (uuid aa9308a1-f00a-4cdb-ba02-9877a4f91551))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX7") (unit 1)
         )
@@ -1602,7 +1602,7 @@
     (pin "3" (uuid 5fce1ca0-2e92-4824-9f81-d14cfd756835))
     (pin "4" (uuid 53afa825-4bab-47bd-a32c-6da65e3cbe51))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED14") (unit 1)
         )
@@ -1640,7 +1640,7 @@
     (pin "1" (uuid 22d876a0-cbe9-4e87-8f41-7bd4f6c9ec41))
     (pin "2" (uuid 5d8a16be-f3a3-4477-9284-18a4b717525e))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX4") (unit 1)
         )
@@ -1668,7 +1668,7 @@
     )
     (pin "1" (uuid 9524a984-c263-4660-8b0d-413112f0bcfb))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR03") (unit 1)
         )
@@ -1706,7 +1706,7 @@
     (pin "1" (uuid 42a555fa-f95c-4576-a406-732a0d92fd45))
     (pin "2" (uuid a416db6e-185b-4e31-b146-0a4da7703dd4))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX23") (unit 1)
         )
@@ -1744,7 +1744,7 @@
     (pin "1" (uuid bd6390e1-1732-4316-a7a1-b1568fb55269))
     (pin "2" (uuid 526f45fa-13ab-4a57-ad2b-c665fd0854b7))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX15") (unit 1)
         )
@@ -1782,7 +1782,7 @@
     (pin "1" (uuid cdbe7193-362b-4613-bc2e-9546f7a5b33f))
     (pin "2" (uuid f825fbe3-c1b9-4ebf-9ed7-0ca53da1aec8))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX18") (unit 1)
         )
@@ -1822,7 +1822,7 @@
     (pin "3" (uuid 3a27a2a5-29b9-4ddf-abb8-30a8b1b989d7))
     (pin "4" (uuid b13eee91-b135-4218-962a-6af55b2af490))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED12") (unit 1)
         )
@@ -1860,7 +1860,7 @@
     (pin "1" (uuid 568ebc12-79e2-453c-af2b-3d5f0e0fb359))
     (pin "2" (uuid b2e8f7f4-c974-4892-822b-d4692af22d10))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX8") (unit 1)
         )
@@ -1900,7 +1900,7 @@
     (pin "3" (uuid 7cbfd14e-05ec-4551-a070-0c7e5a346e99))
     (pin "4" (uuid 7fa36ef8-dc6c-44b1-be5e-58b33f9288b9))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED8") (unit 1)
         )
@@ -1940,7 +1940,7 @@
     (pin "3" (uuid b44170df-fb8e-4b8a-9e91-b4b06ad18f7d))
     (pin "4" (uuid 44e92962-ae5b-482f-aee6-9ba73f20ed3f))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED22") (unit 1)
         )
@@ -1980,7 +1980,7 @@
     (pin "3" (uuid ab41417f-3dc5-42d9-8240-ffe4363db3cb))
     (pin "4" (uuid 88d7d821-8c68-4942-a898-be01199fa5d0))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED15") (unit 1)
         )
@@ -2018,7 +2018,7 @@
     (pin "1" (uuid 3e2e9c8e-e053-4a5e-96c9-7ecc834473f9))
     (pin "2" (uuid 2b585b70-10b6-44ae-a0f2-26dff42f1efd))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX14") (unit 1)
         )
@@ -2058,7 +2058,7 @@
     (pin "3" (uuid 2c9df450-703f-4373-829c-c45d109ec4f5))
     (pin "4" (uuid 9cbc2910-0ed9-4183-bb4c-5a46ab399d0a))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED9") (unit 1)
         )
@@ -2098,7 +2098,7 @@
     (pin "3" (uuid d7f82dcc-3a7e-4203-a147-b0c146ac65e2))
     (pin "4" (uuid eebf67a9-de6b-4013-ab37-cb492b5d2848))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED7") (unit 1)
         )
@@ -2138,7 +2138,7 @@
     (pin "3" (uuid b9b97ca4-5e9b-4b30-82e2-5b21c63ccdd2))
     (pin "4" (uuid e26fc091-48df-48d3-bad3-ae8e08358f4d))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED2") (unit 1)
         )
@@ -2176,7 +2176,7 @@
     (pin "1" (uuid 2849a2a9-858e-4dc0-9c4b-04c6f845e98a))
     (pin "2" (uuid 33b42c8d-b969-4ae7-80cb-cd37a309922e))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX9") (unit 1)
         )
@@ -2214,7 +2214,7 @@
     (pin "1" (uuid 1bc1fc5d-0475-43ce-aea1-3fc20a8db7ee))
     (pin "2" (uuid 483ebb37-3baa-440f-820c-0ab04a9df57f))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX11") (unit 1)
         )
@@ -2254,7 +2254,7 @@
     (pin "3" (uuid 56713ce7-65b7-465a-9a04-b27bf8a62c6f))
     (pin "4" (uuid 02499cbf-7a30-4fba-aea4-d8d9a1a3b0a0))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED13") (unit 1)
         )
@@ -2292,7 +2292,7 @@
     (pin "1" (uuid 3fd45a8c-0e8a-44f0-8ab0-bd8fae3e9650))
     (pin "2" (uuid 70cfcd72-ca61-44af-92e6-daa94acdeba5))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX24") (unit 1)
         )
@@ -2330,7 +2330,7 @@
     (pin "1" (uuid a5e9cc88-4ba5-493d-aa74-7c0eb914ba35))
     (pin "2" (uuid d0873e11-8071-498b-9159-c8ee86e3c036))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX13") (unit 1)
         )
@@ -2370,7 +2370,7 @@
     (pin "3" (uuid 114d303a-8dcb-413a-92e8-357085863415))
     (pin "4" (uuid b7294317-5722-4dbc-97fb-1fbdc7ea2f27))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED4") (unit 1)
         )
@@ -2410,7 +2410,7 @@
     (pin "3" (uuid 0ddf2587-63fd-458e-95ad-760ae543c9ef))
     (pin "4" (uuid 92b0e190-d6ab-40c4-adb9-76d404009e5b))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED19") (unit 1)
         )
@@ -2448,7 +2448,7 @@
     (pin "1" (uuid 82d6d630-bd9d-4b12-b974-b0dbd4eba070))
     (pin "2" (uuid db944833-0a52-4f68-b9c4-f6da25f349fe))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX21") (unit 1)
         )
@@ -2488,7 +2488,7 @@
     (pin "3" (uuid e96eb0ce-c0f7-44e8-8b60-9212d8b10cd9))
     (pin "4" (uuid e65f018b-8f75-4b83-9e3b-098088b40de5))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED24") (unit 1)
         )
@@ -2528,7 +2528,7 @@
     (pin "3" (uuid c9a68c78-d368-4071-9000-24567821c463))
     (pin "4" (uuid e51f1947-19c5-4994-9866-b1c20f160cc6))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED3") (unit 1)
         )
@@ -2568,7 +2568,7 @@
     (pin "3" (uuid fe8da8ae-8262-4214-ba82-ea3c0a3f8533))
     (pin "4" (uuid a6027614-cc72-4d4a-8893-11f10ca4cea0))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED23") (unit 1)
         )
@@ -2608,7 +2608,7 @@
     (pin "3" (uuid 1c48aead-4c98-490b-bf4a-856c6b458cb3))
     (pin "4" (uuid bc9b7eb6-78d3-4179-9b5d-6eaa123ade21))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED5") (unit 1)
         )
@@ -2636,7 +2636,7 @@
     )
     (pin "1" (uuid bce47e58-7018-437a-bf8c-d6913cf344e2))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR05") (unit 1)
         )
@@ -2674,7 +2674,7 @@
     (pin "1" (uuid db4e2f87-c50a-4714-9d82-3184ebf155aa))
     (pin "2" (uuid 9c2a8ebc-1642-4524-81c6-77b280428fe8))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX10") (unit 1)
         )
@@ -2714,7 +2714,7 @@
     (pin "3" (uuid e333c38d-825d-434f-8acd-4fe60246a22a))
     (pin "4" (uuid 05852a9c-a0a7-4c40-b110-174a6f555583))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED16") (unit 1)
         )
@@ -2742,7 +2742,7 @@
     )
     (pin "1" (uuid 812204e9-f4e4-4188-ad29-046a5ddaf787))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR02") (unit 1)
         )
@@ -2780,7 +2780,7 @@
     (pin "1" (uuid 58e5e6af-8260-4520-9aa1-e1139350af3c))
     (pin "2" (uuid 6df803cf-4123-49c3-a4dd-fc1d75e85396))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX22") (unit 1)
         )
@@ -2818,7 +2818,7 @@
     (pin "1" (uuid c95c41cd-70bf-4a4d-a0e0-311a49e467b7))
     (pin "2" (uuid d9d4f818-af56-41dd-98fd-24908ccbb269))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX1") (unit 1)
         )
@@ -2846,7 +2846,7 @@
     )
     (pin "1" (uuid a7cdd597-e75d-451c-ba06-363baca0cc9e))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR08") (unit 1)
         )
@@ -2884,7 +2884,7 @@
     (pin "1" (uuid 91ed9331-ad30-4478-ab7d-d983421e4d07))
     (pin "2" (uuid 02cfb369-8a37-46e2-896e-022005c33ef0))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX16") (unit 1)
         )
@@ -2922,7 +2922,7 @@
     (pin "1" (uuid c40c9156-bee1-42e0-b9c9-474231a664df))
     (pin "2" (uuid 0bc08778-032f-4c67-a700-0068e8f97323))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX12") (unit 1)
         )
@@ -2962,7 +2962,7 @@
     (pin "3" (uuid f5cad9d4-bb84-4e86-a8d9-0c21c3644ad2))
     (pin "4" (uuid e177ed76-3cc7-4282-9edc-e6a24095afde))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED11") (unit 1)
         )
@@ -2990,7 +2990,7 @@
     )
     (pin "1" (uuid b29c79f1-1e8c-43fd-98cd-a460cffcbd9c))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR01") (unit 1)
         )
@@ -3018,7 +3018,7 @@
     )
     (pin "1" (uuid 4b55a66e-5a26-4c6e-8980-43f0ff2dd23d))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "#PWR06") (unit 1)
         )
@@ -3058,7 +3058,7 @@
     (pin "3" (uuid 3415b46a-27fe-47ce-ba93-8d6325fdc6c4))
     (pin "4" (uuid 5d40b122-19bc-49ae-8fdc-515d2f5155b6))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED20") (unit 1)
         )
@@ -3096,7 +3096,7 @@
     (pin "1" (uuid f4c76e2c-5970-41f5-8282-98576ced06f5))
     (pin "2" (uuid 77dbb861-078c-4135-9559-6a805c8bff3d))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "MX5") (unit 1)
         )
@@ -3136,7 +3136,7 @@
     (pin "3" (uuid d5549756-d14f-4f8c-917d-88e43022a769))
     (pin "4" (uuid eda2d90e-905e-49fc-985e-15db7ff91ecf))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED18") (unit 1)
         )
@@ -3176,7 +3176,7 @@
     (pin "3" (uuid 1b5211a9-21e9-42ff-9c32-112b3c4e101a))
     (pin "4" (uuid f8bf6e07-9dfc-45ec-8170-f397f678fe3f))
     (instances
-      (project "MacroPad"
+      (project "LocalDeck"
         (path "/baa20e6a-21a5-4c2b-b32f-0efdbd3f0021"
           (reference "LED6") (unit 1)
         )

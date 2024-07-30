@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LocalDeck Custom")(type "KiCad")(uri "${KIPRJMOD}/Libs/LocalDeck.pretty")(options "")(descr "Custom Footprints for the LocalDeck"))
+)
