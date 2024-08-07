@@ -1,21 +1,18 @@
+# Append "locakable" when wanting to lock
+
 # kicad locking
 
-*.sch -text lockable
-*.kicad_pcb -text lockable
-*fp-info-cache -text lockable
-*fp-lib-table -text lockable
-*sym-lib-table -text lockable
-*.wrl -text lockable
-*.dcm -text lockable
-*.kicad_wks -text lockable
-*.kicad_mod -text lockable
-*.pro -text lockable
-*.lib -text lockable
+*.sch -text
+*.kicad_pcb -text
+*fp-info-cache -text
+*fp-lib-table -text
+*sym-lib-table -text
+*.wrl -text
+*.dcm -text
+*.kicad_wks -text
+*.kicad_mod -text
+*.pro -text
+*.lib -text
 
-
-# freecad locking
-
-*.FCStd lockable
-
-# 3D Printing exports
-*.stl
+# freecad
+*.FCStd
