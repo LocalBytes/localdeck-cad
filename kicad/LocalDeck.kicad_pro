@@ -536,7 +536,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "MacroPad.step",
-      "vrml": "Exports/MacroPad.wrl"
+      "vrml": "../freecad/parts/kicad/LocalDeck.wrl"
     },
     "page_layout_descr_file": ""
   },
