@@ -2495,7 +2495,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x05_Pin") (at 217.17 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 25045101-371b-4031-a528-a84c6a36f783)
     (property "Reference" "J1" (at 218.44 109.22 0)
       (effects (font (size 1.27 1.27)))
@@ -2967,7 +2967,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 261.62 132.08 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 61c456b4-e6e7-4a3f-a8a6-7ad7193e63b0)
     (property "Reference" "H5" (at 265.43 130.81 90)
       (effects (font (size 1.27 1.27)))
@@ -3089,7 +3089,7 @@
     (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BAT60ASERIES-DS-v01_01-en.pdf?fileId=db3a304313d846880113def70c9304a9" (at 219.71 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "JLC Part" "" (at 219.71 77.47 0)
+    (property "JLC Part" "C3018529" (at 219.71 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "JLCRotOffset" "" (at 219.71 77.47 0)
@@ -3110,7 +3110,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 261.62 111.76 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 708d219b-3b12-4988-859e-810c89318388)
     (property "Reference" "H1" (at 264.16 110.49 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3270,7 +3270,7 @@
     (property "Part #" "TS-1187A-B-A-B" (at 185.42 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "JLC Part" "" (at 185.42 83.82 0)
+    (property "JLC Part" "C318884" (at 185.42 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "JLCRotOffset" "" (at 185.42 83.82 0)
@@ -3351,7 +3351,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 261.62 121.92 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a8362833-9cd2-4fd4-80ff-7953b3914b36)
     (property "Reference" "H3" (at 264.16 120.65 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3384,7 +3384,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 261.62 127 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af3691ac-5e5e-45f6-985b-807ef0d5033f)
     (property "Reference" "H4" (at 264.16 125.73 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3512,7 +3512,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 261.62 116.84 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c8f7547f-e060-4a29-b2f5-050d9e2fbc46)
     (property "Reference" "H2" (at 264.16 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
