@@ -1,5 +1,3 @@
-# Append "locakable" when wanting to lock
-
 # kicad locking
 
 *.sch -text
@@ -15,4 +13,4 @@
 *.lib -text
 
 # freecad
-*.FCStd
+*.FCStd -text
