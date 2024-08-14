@@ -4,6 +4,7 @@
 
 freecad/exports/
 kicad/LocalDeck-backups
+kicad/production
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux
