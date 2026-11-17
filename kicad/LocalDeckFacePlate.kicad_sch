@@ -4226,7 +4226,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 104.14 125.73 0)
 			(effects
 				(font
@@ -4235,7 +4235,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 104.14 125.73 0)
 			(effects
 				(font
@@ -4244,7 +4244,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 104.14 125.73 0)
 			(effects
 				(font
@@ -4537,7 +4537,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 59.69 34.29 0)
 			(effects
 				(font
@@ -4546,7 +4546,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 59.69 34.29 0)
 			(effects
 				(font
@@ -4555,7 +4555,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 59.69 34.29 0)
 			(effects
 				(font
@@ -4631,7 +4631,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 125.73 151.13 0)
 			(effects
 				(font
@@ -4640,7 +4640,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 125.73 151.13 0)
 			(effects
 				(font
@@ -4649,7 +4649,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 125.73 151.13 0)
 			(effects
 				(font
@@ -4731,7 +4731,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -4740,7 +4740,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -4749,7 +4749,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 82.55 151.13 0)
 			(effects
 				(font
@@ -4832,7 +4832,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 85.09 62.23 0)
 			(effects
 				(font
@@ -4841,7 +4841,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 85.09 62.23 0)
 			(effects
 				(font
@@ -4850,7 +4850,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 85.09 62.23 0)
 			(effects
 				(font
@@ -4927,7 +4927,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 46.99 34.29 0)
 			(effects
 				(font
@@ -4936,7 +4936,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 46.99 34.29 0)
 			(effects
 				(font
@@ -4945,7 +4945,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 46.99 34.29 0)
 			(effects
 				(font
@@ -5161,7 +5161,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 46.99 76.2 0)
 			(effects
 				(font
@@ -5170,7 +5170,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 46.99 76.2 0)
 			(effects
 				(font
@@ -5179,7 +5179,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 46.99 76.2 0)
 			(effects
 				(font
@@ -5462,7 +5462,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 39.37 100.33 0)
 			(effects
 				(font
@@ -5471,7 +5471,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 39.37 100.33 0)
 			(effects
 				(font
@@ -5480,7 +5480,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 39.37 100.33 0)
 			(effects
 				(font
@@ -5702,7 +5702,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 33.02 76.2 0)
 			(effects
 				(font
@@ -5711,7 +5711,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 33.02 76.2 0)
 			(effects
 				(font
@@ -5720,7 +5720,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 33.02 76.2 0)
 			(effects
 				(font
@@ -5797,7 +5797,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 97.79 34.29 0)
 			(effects
 				(font
@@ -5806,7 +5806,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 97.79 34.29 0)
 			(effects
 				(font
@@ -5815,7 +5815,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 97.79 34.29 0)
 			(effects
 				(font
@@ -6029,7 +6029,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -6038,7 +6038,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -6047,7 +6047,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 33.02 48.26 0)
 			(effects
 				(font
@@ -6193,7 +6193,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 39.37 176.53 0)
 			(effects
 				(font
@@ -6202,7 +6202,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 39.37 176.53 0)
 			(effects
 				(font
@@ -6211,7 +6211,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 39.37 176.53 0)
 			(effects
 				(font
@@ -6294,7 +6294,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 72.39 34.29 0)
 			(effects
 				(font
@@ -6303,7 +6303,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 72.39 34.29 0)
 			(effects
 				(font
@@ -6312,7 +6312,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 72.39 34.29 0)
 			(effects
 				(font
@@ -6592,7 +6592,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 85.09 76.2 0)
 			(effects
 				(font
@@ -6601,7 +6601,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 85.09 76.2 0)
 			(effects
 				(font
@@ -6610,7 +6610,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 85.09 76.2 0)
 			(effects
 				(font
@@ -6687,7 +6687,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 59.69 62.23 0)
 			(effects
 				(font
@@ -6696,7 +6696,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 59.69 62.23 0)
 			(effects
 				(font
@@ -6705,7 +6705,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 59.69 62.23 0)
 			(effects
 				(font
@@ -6782,7 +6782,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 97.79 62.23 0)
 			(effects
 				(font
@@ -6791,7 +6791,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 97.79 62.23 0)
 			(effects
 				(font
@@ -6800,7 +6800,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 97.79 62.23 0)
 			(effects
 				(font
@@ -7013,7 +7013,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 147.32 125.73 0)
 			(effects
 				(font
@@ -7022,7 +7022,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 147.32 125.73 0)
 			(effects
 				(font
@@ -7031,7 +7031,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 147.32 125.73 0)
 			(effects
 				(font
@@ -7114,7 +7114,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 46.99 48.26 0)
 			(effects
 				(font
@@ -7123,7 +7123,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 46.99 48.26 0)
 			(effects
 				(font
@@ -7132,7 +7132,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 46.99 48.26 0)
 			(effects
 				(font
@@ -7208,7 +7208,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 60.96 125.73 0)
 			(effects
 				(font
@@ -7217,7 +7217,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 60.96 125.73 0)
 			(effects
 				(font
@@ -7226,7 +7226,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 60.96 125.73 0)
 			(effects
 				(font
@@ -7308,7 +7308,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 125.73 176.53 0)
 			(effects
 				(font
@@ -7317,7 +7317,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 125.73 176.53 0)
 			(effects
 				(font
@@ -7326,7 +7326,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 125.73 176.53 0)
 			(effects
 				(font
@@ -7478,7 +7478,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 60.96 151.13 0)
 			(effects
 				(font
@@ -7487,7 +7487,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 60.96 151.13 0)
 			(effects
 				(font
@@ -7496,7 +7496,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 60.96 151.13 0)
 			(effects
 				(font
@@ -7649,7 +7649,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 46.99 62.23 0)
 			(effects
 				(font
@@ -7658,7 +7658,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 46.99 62.23 0)
 			(effects
 				(font
@@ -7667,7 +7667,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 46.99 62.23 0)
 			(effects
 				(font
@@ -7743,7 +7743,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 82.55 125.73 0)
 			(effects
 				(font
@@ -7752,7 +7752,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 82.55 125.73 0)
 			(effects
 				(font
@@ -7761,7 +7761,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 82.55 125.73 0)
 			(effects
 				(font
@@ -7843,7 +7843,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 39.37 125.73 0)
 			(effects
 				(font
@@ -7852,7 +7852,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 39.37 125.73 0)
 			(effects
 				(font
@@ -7861,7 +7861,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 39.37 125.73 0)
 			(effects
 				(font
@@ -7943,7 +7943,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 60.96 100.33 0)
 			(effects
 				(font
@@ -7952,7 +7952,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 60.96 100.33 0)
 			(effects
 				(font
@@ -7961,7 +7961,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 60.96 100.33 0)
 			(effects
 				(font
@@ -8044,7 +8044,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 59.69 48.26 0)
 			(effects
 				(font
@@ -8053,7 +8053,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 59.69 48.26 0)
 			(effects
 				(font
@@ -8062,7 +8062,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 59.69 48.26 0)
 			(effects
 				(font
@@ -8209,7 +8209,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 85.09 48.26 0)
 			(effects
 				(font
@@ -8218,7 +8218,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 85.09 48.26 0)
 			(effects
 				(font
@@ -8227,7 +8227,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 85.09 48.26 0)
 			(effects
 				(font
@@ -8303,7 +8303,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 39.37 151.13 0)
 			(effects
 				(font
@@ -8312,7 +8312,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 39.37 151.13 0)
 			(effects
 				(font
@@ -8321,7 +8321,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 39.37 151.13 0)
 			(effects
 				(font
@@ -8473,7 +8473,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 97.79 76.2 0)
 			(effects
 				(font
@@ -8482,7 +8482,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 97.79 76.2 0)
 			(effects
 				(font
@@ -8491,7 +8491,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 97.79 76.2 0)
 			(effects
 				(font
@@ -8568,7 +8568,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 33.02 62.23 0)
 			(effects
 				(font
@@ -8577,7 +8577,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 33.02 62.23 0)
 			(effects
 				(font
@@ -8586,7 +8586,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 33.02 62.23 0)
 			(effects
 				(font
@@ -8729,7 +8729,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 104.14 100.33 0)
 			(effects
 				(font
@@ -8738,7 +8738,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 104.14 100.33 0)
 			(effects
 				(font
@@ -8747,7 +8747,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 104.14 100.33 0)
 			(effects
 				(font
@@ -9033,7 +9033,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 104.14 151.13 0)
 			(effects
 				(font
@@ -9042,7 +9042,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 104.14 151.13 0)
 			(effects
 				(font
@@ -9051,7 +9051,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 104.14 151.13 0)
 			(effects
 				(font
@@ -9343,7 +9343,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 59.69 76.2 0)
 			(effects
 				(font
@@ -9352,7 +9352,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 59.69 76.2 0)
 			(effects
 				(font
@@ -9361,7 +9361,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 59.69 76.2 0)
 			(effects
 				(font
@@ -9437,7 +9437,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 147.32 176.53 0)
 			(effects
 				(font
@@ -9446,7 +9446,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 147.32 176.53 0)
 			(effects
 				(font
@@ -9455,7 +9455,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 147.32 176.53 0)
 			(effects
 				(font
@@ -9607,7 +9607,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 82.55 100.33 0)
 			(effects
 				(font
@@ -9616,7 +9616,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 82.55 100.33 0)
 			(effects
 				(font
@@ -9625,7 +9625,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 82.55 100.33 0)
 			(effects
 				(font
@@ -9847,7 +9847,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 147.32 151.13 0)
 			(effects
 				(font
@@ -9856,7 +9856,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 147.32 151.13 0)
 			(effects
 				(font
@@ -9865,7 +9865,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 147.32 151.13 0)
 			(effects
 				(font
@@ -9947,7 +9947,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -9956,7 +9956,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -9965,7 +9965,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 125.73 100.33 0)
 			(effects
 				(font
@@ -10182,7 +10182,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 72.39 48.26 0)
 			(effects
 				(font
@@ -10191,7 +10191,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 72.39 48.26 0)
 			(effects
 				(font
@@ -10200,7 +10200,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 72.39 48.26 0)
 			(effects
 				(font
@@ -10276,7 +10276,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 60.96 176.53 0)
 			(effects
 				(font
@@ -10285,7 +10285,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 60.96 176.53 0)
 			(effects
 				(font
@@ -10294,7 +10294,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 60.96 176.53 0)
 			(effects
 				(font
@@ -10513,7 +10513,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 72.39 76.2 0)
 			(effects
 				(font
@@ -10522,7 +10522,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 72.39 76.2 0)
 			(effects
 				(font
@@ -10531,7 +10531,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 72.39 76.2 0)
 			(effects
 				(font
@@ -10675,7 +10675,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 33.02 34.29 0)
 			(effects
 				(font
@@ -10684,7 +10684,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 33.02 34.29 0)
 			(effects
 				(font
@@ -10693,7 +10693,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 33.02 34.29 0)
 			(effects
 				(font
@@ -10977,7 +10977,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 72.39 62.23 0)
 			(effects
 				(font
@@ -10986,7 +10986,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 72.39 62.23 0)
 			(effects
 				(font
@@ -10995,7 +10995,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 72.39 62.23 0)
 			(effects
 				(font
@@ -11072,7 +11072,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 97.79 48.26 0)
 			(effects
 				(font
@@ -11081,7 +11081,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 97.79 48.26 0)
 			(effects
 				(font
@@ -11090,7 +11090,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 97.79 48.26 0)
 			(effects
 				(font
@@ -11166,7 +11166,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 125.73 125.73 0)
 			(effects
 				(font
@@ -11175,7 +11175,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 125.73 125.73 0)
 			(effects
 				(font
@@ -11184,7 +11184,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 125.73 125.73 0)
 			(effects
 				(font
@@ -11400,7 +11400,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 104.14 176.53 0)
 			(effects
 				(font
@@ -11409,7 +11409,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 104.14 176.53 0)
 			(effects
 				(font
@@ -11418,7 +11418,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 104.14 176.53 0)
 			(effects
 				(font
@@ -11501,7 +11501,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5156480"
+		(property "JLCPCB Part" "C5156480"
 			(at 85.09 34.29 0)
 			(effects
 				(font
@@ -11510,7 +11510,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 85.09 34.29 0)
 			(effects
 				(font
@@ -11519,7 +11519,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" "0.6,3.8"
+		(property "FT Position Offset" "0.6,3.8"
 			(at 85.09 34.29 0)
 			(effects
 				(font
@@ -11595,7 +11595,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 82.55 176.53 0)
 			(effects
 				(font
@@ -11604,7 +11604,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 82.55 176.53 0)
 			(effects
 				(font
@@ -11613,7 +11613,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 82.55 176.53 0)
 			(effects
 				(font
@@ -11695,7 +11695,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLC Part" "C5149201"
+		(property "JLCPCB Part" "C5149201"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -11704,7 +11704,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCRotOffset" "180"
+		(property "FT Rotation Offset" "180"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -11713,7 +11713,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPosOffset" ""
+		(property "FT Position Offset" ""
 			(at 147.32 100.33 0)
 			(effects
 				(font
