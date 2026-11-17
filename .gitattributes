@@ -1,16 +1,2 @@
-# kicad locking
-
-*.sch -text
-*.kicad_pcb -text
-*fp-info-cache -text
-*fp-lib-table -text
-*sym-lib-table -text
-*.wrl -text
-*.dcm -text
-*.kicad_wks -text
-*.kicad_mod -text
-*.pro -text
-*.lib -text
-
-# freecad
+# FreeCAD documents are zip archives, stored unzipped through Zippey
 *.FCStd -text filter=zippey
