@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "baa20e6a-21a5-4c2b-b32f-0efdbd3f0021")
 	(paper "A4")
+	(title_block
+		(title "LocalDeck")
+		(company "Allport-IT Ltd")
+		(comment 1 "Licence: https://github.com/LocalBytes/localdeck-cad#licence")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x05_Pin"
 			(pin_names

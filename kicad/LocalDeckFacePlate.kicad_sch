@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "783fd344-0bb8-4fa0-ab3b-62175832792e")
 	(paper "A4")
+	(title_block
+		(title "LocalDeck Face Plate")
+		(company "Allport-IT Ltd")
+		(comment 1 "Licence: https://github.com/LocalBytes/localdeck-cad#licence")
+	)
 	(lib_symbols
 		(symbol "Device:C"
 			(pin_numbers

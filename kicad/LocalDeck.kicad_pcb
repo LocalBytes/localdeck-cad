@@ -7,6 +7,11 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "LocalDeck")
+		(company "Allport-IT Ltd")
+		(comment 1 "Licence: https://github.com/LocalBytes/localdeck-cad#licence")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
