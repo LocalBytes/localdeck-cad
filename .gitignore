@@ -3,9 +3,9 @@
 *.FCStd.*
 *.FCBak
 
+# Exports and conversions
 freecad/exports/
-
-# KiCad backups/generated output
-kicad/**/*-backups/
-kicad/**/production/
-kicad/**/.history/
+freecad/parts/kicad/
+*.glb
+*.obj
+*.mtl
